@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.weather-app {
+  text-align: center;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 1em;
+}
+
+.weather-display {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
